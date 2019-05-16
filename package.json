@@ -1,0 +1,27 @@
+{
+  "name": "checkIosDeviceType",
+  "version": "1.0.0",
+  "description": "Library checks ios device type",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "ios-device-type",
+    "check-ios-device-type"
+  ],
+  "author": "Burhan Yılmaz <wburhany@gmail.com> (https://github.com/burhanyilmaz)",
+  "contributors": [
+    "Burhan Yılmaz <wburhany@gmail.com> (https://github.com/burhanyilmaz)"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/burhanyilmaz/checkIosDeviceType/issues"
+  },
+  "homepage": "https://github.com/burhanyilmaz/checkIosDeviceType#readme",
+  "peerDependencies": {
+    "react": ">16.8.0",
+    "react-native": ">0.59.0"
+  }
+}
