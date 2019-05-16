@@ -1,6 +1,6 @@
 {
   "name": "rn-check-ios-device-type",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Library checks ios device type",
   "main": "index.js",
   "repository": {
