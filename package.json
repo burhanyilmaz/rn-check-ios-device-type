@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/burhanyilmaz/checkIosDeviceType"
+    "url": "git+https://github.com/burhanyilmaz/rn-check-ios-device-type"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,9 +21,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/burhanyilmaz/checkIosDeviceType/issues"
+    "url": "https://github.com/burhanyilmaz/rn-check-ios-device-type/issues"
   },
-  "homepage": "https://github.com/burhanyilmaz/checkIosDeviceType#readme",
+  "homepage": "https://github.com/burhanyilmaz/rn-check-ios-device-type#readme",
   "peerDependencies": {
     "react": ">16.8.0",
     "react-native": ">0.59.0"
