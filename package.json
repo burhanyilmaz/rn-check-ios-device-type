@@ -1,8 +1,12 @@
 {
-  "name": "checkIosDeviceType",
+  "name": "rn-check-ios-device-type",
   "version": "1.0.0",
   "description": "Library checks ios device type",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burhanyilmaz/checkIosDeviceType"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
